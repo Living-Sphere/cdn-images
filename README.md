@@ -1,11 +1,3 @@
-### **Repository Description (GitHub)**
-```
-📦 A collection of images hosted for use via the jsDelivr CDN. This repository contains various types of images, including logos, avatars, banners, and product photos, easily accessible for websites, projects, or apps using jsDelivr.
-```
-
-### **README.md Template**
-
-```markdown
 # Image CDN Repository
 
 ![License](https://img.shields.io/github/license/[your-username]/[repo-name])
@@ -108,14 +100,3 @@ If you'd like to contribute to this repository (e.g., add new images, optimize e
 ## 📜 License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
----
-
-### **Instructions for the README:**
-
-1. **Replace the placeholders** like `[username]` and `[repo-name]` with your GitHub username and the name of your repository.
-2. **Customize the "Folder Structure"** section if you create additional folders or modify the existing structure.
-3. **Update badges** in the beginning based on the actual repository info, such as license, size, and contributors.
-
-This will give you a clean, professional README for your GitHub repo and make it clear how to use it with jsDelivr.
