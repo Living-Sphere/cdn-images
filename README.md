@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/github/license/[your-username]/[repo-name])
 ![Size](https://img.shields.io/github/repo-size/[your-username]/[repo-name])
 ![Contributors](https://img.shields.io/github/contributors/[your-username]/[repo-name])
+![CDN](https://www.jsdelivr.com/a46a5e95-e2b9-4767-a985-ba9216b02555)
 
 A simple repository to host images for CDN use via [jsDelivr](https://www.jsdelivr.com/). You can link directly to any image in this repository and use it in your websites or apps.
 
