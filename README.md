@@ -3,8 +3,8 @@
 ![License](https://img.shields.io/github/license/living-sphere/cdn-images)
 ![Size](https://img.shields.io/github/repo-size/living-sphere/cdn-images)
 ![Contributors](https://img.shields.io/github/contributors/living-sphere/cdn-images)
-![Commit](https://img.shields.io/github/commit-activity/m/living-sphere/cdn-images/main)
-![CDN](https://data.jsdelivr.com/v1/stats/packages/gh/living-sphere/cdn-images/badge?period=month&style=rounded)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/living-sphere/cdn-images/main)
+![CDN](https://data.jsdelivr.com/v1/stats/packages/gh/living-sphere/cdn-images/badge?period=month&style=rounded&label=CDN%20Hits)
 
 A simple repository to host images for CDN use via [jsDelivr](https://www.jsdelivr.com/). You can link directly to any image in this repository and use it in your websites or apps.
 
