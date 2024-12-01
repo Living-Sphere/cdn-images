@@ -19,7 +19,6 @@ A simple repository to host images for CDN use via [jsDelivr](https://www.jsdeli
 This repository is designed to serve images over a content delivery network (CDN) using [jsDelivr](https://www.jsdelivr.com/). It's ideal for serving static images, such as:
 - Logos
 - Avatars
-- Banners
 - Product images
 - Miscellaneous assets
 
